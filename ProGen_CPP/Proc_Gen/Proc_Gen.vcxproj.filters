@@ -26,5 +26,8 @@
     <ClInclude Include="Rooms.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="Rooms_v2.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

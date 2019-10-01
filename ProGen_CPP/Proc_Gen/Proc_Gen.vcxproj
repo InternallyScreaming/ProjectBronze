@@ -119,6 +119,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Rooms.h" />
+    <ClInclude Include="Rooms_v2.h" />
     <ClInclude Include="RoomTypes.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
