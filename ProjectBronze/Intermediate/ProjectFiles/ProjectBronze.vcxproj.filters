@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectBronze.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6ED04D86-D729-4691-8602-6A2B482E9613}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectBronze.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectBronzeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\SaurabhMatrices.uplugin" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{A0B71CA5-3B9B-4FB5-9B99-F127E86D42CC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjectBronze">
+      <UniqueIdentifier>{6658E523-82FB-4D70-98C0-D26C771BBCEE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectBronze\DungeonGenerator.cpp">
+      <Filter>Source\ProjectBronze</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectBronze\DungeonGenerator.h">
+      <Filter>Source\ProjectBronze</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectBronze\LevelActor.cpp">
+      <Filter>Source\ProjectBronze</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectBronze\LevelActor.h">
+      <Filter>Source\ProjectBronze</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ProjectBronze\ProjectBronze.Build.cs">
+      <Filter>Source\ProjectBronze</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectBronze\ProjectBronze.cpp">
+      <Filter>Source\ProjectBronze</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectBronze\ProjectBronze.h">
+      <Filter>Source\ProjectBronze</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
