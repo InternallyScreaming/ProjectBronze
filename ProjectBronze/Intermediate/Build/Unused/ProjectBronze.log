@@ -1,0 +1,14 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\REPOS\ProjectBronze).
+  Parsing headers for ProjectBronzeEditor
+    Running UnrealHeaderTool "D:\REPOS\ProjectBronze\ProjectBronze\ProjectBronze.uproject" "D:\REPOS\ProjectBronze\ProjectBronze\Intermediate\Build\Win64\ProjectBronzeEditor\Development\ProjectBronzeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for ProjectBronzeEditor in 4.7727659 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (D:\Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] DungeonGenerator.cpp
+    [2/4] UE4Editor-ProjectBronze-0002.lib
+       Creating library D:\REPOS\ProjectBronze\ProjectBronze\Intermediate\Build\Win64\UE4Editor\Development\ProjectBronze\UE4Editor-ProjectBronze-0002.lib and object D:\REPOS\ProjectBronze\ProjectBronze\Intermediate\Build\Win64\UE4Editor\Development\ProjectBronze\UE4Editor-ProjectBronze-0002.exp
+    [3/4] UE4Editor-ProjectBronze-0002.dll
+       Creating library D:\REPOS\ProjectBronze\ProjectBronze\Intermediate\Build\Win64\UE4Editor\Development\ProjectBronze\UE4Editor-ProjectBronze-0002.suppressed.lib and object D:\REPOS\ProjectBronze\ProjectBronze\Intermediate\Build\Win64\UE4Editor\Development\ProjectBronze\UE4Editor-ProjectBronze-0002.suppressed.exp
+    [4/4] ProjectBronzeEditor.target
+  Total time in Parallel executor: 1.48 seconds
+  Total execution time: 6.98 seconds
