@@ -1,0 +1,2 @@
+D:\REPOS\ProjectBronze\ProjectBronze\Intermediate\Build\Win64\UE4Editor\Development\ProjectBronze\Definitions.ProjectBronze.h
+d:\repos\projectbronze\projectbronze\source\projectbronze\DungeonGenerator.h

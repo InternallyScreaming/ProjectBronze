@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProjectBronze.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\REPOS\ProjectBronze\ProjectBronze\Intermediate\Build\Win64\ProjectBronzeEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\REPOS\ProjectBronze\ProjectBronze\Intermediate\Build\Win64\UE4Editor\Development\ProjectBronze\DungeonGenerator.cpp.obj"
+"D:\REPOS\ProjectBronze\ProjectBronze\Intermediate\Build\Win64\UE4Editor\Development\ProjectBronze\MyClass.cpp.obj"
+"D:\REPOS\ProjectBronze\ProjectBronze\Intermediate\Build\Win64\UE4Editor\Development\ProjectBronze\ProjectBronze.cpp.obj"
+"D:\REPOS\ProjectBronze\ProjectBronze\Intermediate\Build\Win64\UE4Editor\Development\ProjectBronze\Default.rc2.res"
+/OUT:"D:\REPOS\ProjectBronze\ProjectBronze\Intermediate\Build\Win64\UE4Editor\Development\ProjectBronze\UE4Editor-ProjectBronze.lib"
+/INCLUDE:IMPLEMENT_MODULE_ProjectBronze
