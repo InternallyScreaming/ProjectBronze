@@ -1,3 +1,0 @@
-﻿  Layout Generator.cpp
-c:\users\still\source\repos\layout generator\layout generator\layout generator.cpp(31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Layout Generator.vcxproj -> C:\Users\still\source\repos\Layout Generator\Debug\Layout Generator.exe

@@ -1,2 +1,0 @@
-# ProjectBronze
-Senior Project
