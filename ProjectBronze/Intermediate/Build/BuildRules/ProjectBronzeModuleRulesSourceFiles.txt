@@ -1,0 +1,3 @@
+D:\REPOS\ProjectBronze\ProjectBronze\Source\ProjectBronze\ProjectBronze.Build.cs
+D:\REPOS\ProjectBronze\ProjectBronze\Source\ProjectBronze.Target.cs
+D:\REPOS\ProjectBronze\ProjectBronze\Source\ProjectBronzeEditor.Target.cs
